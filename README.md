@@ -1,1 +1,3 @@
 # DeepForge
+
+[CHANGELOG](./CHANGELOG.md)
