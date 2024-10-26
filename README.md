@@ -24,4 +24,3 @@
 
 *To view all change logs, see the [CHANGELOG.md](./CHANGELOG.md) file.*
 
->>>>>>> 0848dcc (alpha v0.0.1)
